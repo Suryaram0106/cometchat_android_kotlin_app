@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cometchat_kotlin</string>
+    <string name="app_bottom_nav_chats">chat</string>
+    <string name="app_bottom_nav_calls">calls</string>
+    <string name="app_bottom_nav_users">users</string>
+    <string name="app_bottom_nav_groups">groups</string>
+</resources>
